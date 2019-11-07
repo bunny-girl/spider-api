@@ -1,0 +1,28 @@
+{
+  "name": "spider-api",
+  "version": "1.0.0",
+  "description": "API based on free api",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunny-girl/spider-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bunny-girl/spider-api/issues"
+  },
+  "homepage": "https://github.com/bunny-girl/spider-api#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
