@@ -1,7 +1,7 @@
 {
   "name": "spider-api",
-  "version": "0.0.1",
-  "description": "API based on free api",
+  "version": "0.0.2",
+  "description": "API integration based on free api",
   "main": "index.js",
   "directories": {
     "lib": "lib",
