@@ -2,7 +2,7 @@
 I've been repeating with creating logics using spiders, so I decided to create a api center to hold these APIs based on spiders. This tool is somehow based on the previous [spider adapter tool](https://www.npmjs.com/package/spider-adapters).
 
 ## How to Use
-Currently it has only one API for NHK Radio Center. So:
+Currently it has 2 API: NHK radio and Bing image. So:
 ```
 const radio = require('../index').nhk_radio;
 

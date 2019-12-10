@@ -14,7 +14,9 @@
     "type": "git",
     "url": "git+https://github.com/bunny-girl/spider-api.git"
   },
-  "keywords": [],
+  "keywords": [
+    "API"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
